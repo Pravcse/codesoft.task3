@@ -1,9 +1,9 @@
-CODSOFT Task 3 - Tic Tac Toe Game
+#CODSOFT Task 3 - Tic Tac Toe Game
 
-Description
+#Description
 A simple Tic Tac Toe game developed in C++ as part of the CodeSoft C++ Programming Internship.
 
-Features
+#Features
 Two-player gameplay
 Interactive console interface
 Win detection
